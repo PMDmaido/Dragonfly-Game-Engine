@@ -1,4 +1,4 @@
-### Project 2c Dragonfly Naiad
+### Project Dragonfly
 # Phuong Mai Do - pdo@wpi.edu
 Feb 25 2025
 
@@ -7,6 +7,9 @@ Windows - Microsoft
 
 - Tested Platform: Visual Studio Code 2022 for Windows
 - Programming Library: SFML 3.0
+
+## Quick note
+To download and play the game .exe built and run by this Dragonfly game engine, go to the 'final' branch of this this repository to checkout the code and play.
 
 ## How to compile (especially if non-standard)
 1. Navigate to the project directory
