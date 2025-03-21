@@ -4,6 +4,8 @@
 
 This project is inspired by the classic **Feeding Frenzy** game, where larger fish eat smaller fish while avoiding similar-sized or bigger predators. Developed on **Windows** using **Visual Studio**, this game brings an engaging underwater survival challenge.
 
+- For a quick download of this game, please copy and paste this link to your browser: https://web.cs.wpi.edu/~imgd3000/c25/games/shark/download.zip 
+- For a quick video demo, please visit this Youtube video: https://youtu.be/uAJAb61KnJc 
 ---
 
 ## **2a. PLATFORM**
@@ -86,8 +88,14 @@ This game features an ecosystem where different shark and fish sizes interact dy
 
 ## **4. Audio & Graphics**
 - **Sounds**: All audio assets are sourced from **freesound.org**.
+eat.wav - bite(cartoon style) - Jofae
+  https://freesound.org/people/Jofae/sounds/353067/
+ocean-background.wav - 2-26.Dive.mp3 - Pokémon Ruby & Sapphire cd 2 #26 Dive
+  https://downloads.khinsider.com/game-soundtracks/album/pokemon-ruby-sapphire-music-super-complete/2-26.%2520Dive.mp3
+  
 - **Sprites**: Custom-designed, inspired by various online resources.
-
+https://ascii.co.uk/art
+https://www.asciiart.eu/
 ---
 
 ## **5. Documentation**
